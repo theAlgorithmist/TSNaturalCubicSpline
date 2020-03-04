@@ -78,7 +78,7 @@ Apache 2.0
 
 [//]: # (kudos http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-[The Algorithmist]: <http://algorithmist.net>
+[The Algorithmist]: <https://www.linkedin.com/in/jimarmstrong>
 
 [white paper that I wrote on the topic]: <http://algorithmist.net/docs/spline.pdf>
 
